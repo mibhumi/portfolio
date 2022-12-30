@@ -1,10 +1,10 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
+date: '2019-08-11'
+title: 'Software engineer'
+company: 'Kuliza Technology'
+location: 'Bangalore, India'
 range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+url: 'https://kuliza.com/'
 ---
 
 - Developed and shipped highly interactive web applications for Apple Music using Ember.js
