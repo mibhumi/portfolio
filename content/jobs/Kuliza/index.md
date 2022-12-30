@@ -13,7 +13,5 @@ url: 'https://kuliza.com/'
 - Contributed to Quality Analysis of the system by performing end-to-end manual testing and developed unit test case using Jest.
 - Expertise in troubleshooting the problems generated while building and developing production support
 - Experienced in all phases of SDLC like requirement Analysis, Implementation, and maintenance with Agile and Scrum. Developed SPA application using react.js
-- Collaborate and coordinate with back-end developers to build consistent systems across the entire stack
-- Communicated with product managers to enhance existing features and UX designers to create intuitive and functional UI development
 - Responsible for a charge of tech innovations and mentorship of intern trainee regarding existing systems and products.Participate in the entire development lifecycle, focusing on design, coding, deployment, and monitoring
 - Communicating with high-level clients regarding project requirements. Worked closely with developers, project managers, and testers (QA) to meet client requirements
