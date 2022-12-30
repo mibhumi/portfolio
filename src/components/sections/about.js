@@ -141,9 +141,9 @@ const About = () => {
             </p>
 
             <p>
-            I previously worked at <a href="https://kuliza.com/">Kuliza Technology</a>, where I have worked on <a href="https://finvolv.ai/">Finvolv</a> 
-            to reach clinets requirement. Developed and designed mobile and web designs, maintained brand consistency throughout design and ensured the quality of code.
-            Received opportunity to work and communicate with various nationa and international clients like Standard Charted-Kenya, Crediliq, Capri Global, Annapurna Finance, and Lendingkart.
+            I previously worked at <a href="https://kuliza.com/">Kuliza Technology</a>, where I have worked on <a href="https://finvolv.ai/">Finvolv </a> 
+            &nbsp; to reach clinets requirement. Developed and designed mobile and web designs, maintained brand consistency throughout design and ensured the quality of code.
+            Received opportunity to work and communicate with various national and international clients like Standard Charted-Kenya, Crediliq, Capri Global, Annapurna Finance, and Lendingkart.
             </p>
 
             <p>Here are a few tools and technologies I’ve been working with recently:</p>

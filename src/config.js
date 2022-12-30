@@ -6,22 +6,22 @@ module.exports = {
       name: 'GitHub',
       url: 'https://github.com/bchiang7',
     },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/mibhumi',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bhumipatel1196',
-    },
+    // {
+    //   name: 'Instagram',
+    //   url: 'https://www.instagram.com/mibhumi',
+    // },
+    // {
+    //   name: 'Twitter',
+    //   url: 'https://twitter.com/bhumipatel1196',
+    // },
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/bhumi-patel-413416106',
     },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
-    },
+    // {
+    //   name: 'Codepen',
+    //   url: 'https://codepen.io/bchiang7',
+    // },
   ],
 
   navLinks: [

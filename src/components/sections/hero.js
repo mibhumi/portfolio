@@ -65,7 +65,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build things for the web and mobile.</h3>;
   const four = (
     <>
-    <p>Web developer | React developer | Front end developer</p>
+    <p>Web Developer | React Developer | Front-end Developer</p>
       <p>  
       Software Developer from Milton, ON, Canada with rock-solid
       experience in building complex applications with modern technologies.
