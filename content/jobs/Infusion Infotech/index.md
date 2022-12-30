@@ -1,10 +1,10 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+date: '2018-05-21'
+title: 'Project Trainee'
+company: 'Infusion Infotech'
+location: 'Surat, India'
+range: 'May - July 2018'
+url: ''
 ---
 
 - Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS

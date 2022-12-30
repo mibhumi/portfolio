@@ -65,15 +65,18 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build things for the web and mobile.</h3>;
   const four = (
     <>
-      <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
+    <p>Web developer | React developer | Front end developer</p>
+      <p>  
+      Software Developer from Milton, ON, Canada with rock-solid
+      experience in building complex applications with modern technologies.
+    . Currently, I’m focused on building mordern financial web and mobile application using react and react native 
         at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
+        <a href="https://kuliza.com/" target="_blank" rel="noreferrer">
+          Kuliza techonology
         </a>
         .
       </p>
+      <p>I design and code beautifully simple things, and I love what I do.</p>
     </>
   );
   const five = (

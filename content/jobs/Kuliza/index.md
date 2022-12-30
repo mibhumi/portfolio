@@ -3,11 +3,17 @@ date: '2019-08-11'
 title: 'Software engineer'
 company: 'Kuliza Technology'
 location: 'Bangalore, India'
-range: 'July - December 2017'
+range: 'August 2019 - october 2022'
 url: 'https://kuliza.com/'
 ---
 
-- Developed and shipped highly interactive web applications for Apple Music using Ember.js
-- Built and shipped the Apple Music Extension within Facebook Messenger leveraging third-party and internal APIs
-- Architected and implemented the front-end of Apple Music's embeddable web player widget, which lets users log in and listen to full songs in the browser
-- Contributed extensively to MusicKit.js, a JavaScript framework that allows developers to add an Apple Music player to their web apps
+- Developed and Designed web and mobile applications (Andriod and iOs) related to financial services using React and React Native workflows for various international and local clients like Standard Charted-Kenya, Crediliq, Capri Global, Annapurna Finance, and Lendingkart
+- Created mobile responsive web designs, maintained brand consistency throughout design and ensured the quality of code
+- Configured backend with front end using REST APIs, managed state using Redux, implemented functionality using react hooks and worked with UI/UX team to develop pixel-perfect user interfaces
+- Contributed to Quality Analysis of the system by performing end-to-end manual testing and developed unit test case using Jest.
+- Expertise in troubleshooting the problems generated while building and developing production support
+- Experienced in all phases of SDLC like requirement Analysis, Implementation, and maintenance with Agile and Scrum. Developed SPA application using react.js
+- Collaborate and coordinate with back-end developers to build consistent systems across the entire stack
+- Communicated with product managers to enhance existing features and UX designers to create intuitive and functional UI development
+- Responsible for a charge of tech innovations and mentorship of intern trainee regarding existing systems and products.Participate in the entire development lifecycle, focusing on design, coding, deployment, and monitoring
+- Communicating with high-level clients regarding project requirements. Worked closely with developers, project managers, and testers (QA) to meet client requirements
