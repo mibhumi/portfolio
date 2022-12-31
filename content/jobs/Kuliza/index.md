@@ -11,7 +11,5 @@ url: 'https://kuliza.com/'
 - Created mobile responsive web designs, maintained brand consistency throughout design and ensured the quality of code
 - Configured backend with front end using REST APIs, managed state using Redux, implemented functionality using react hooks and worked with UI/UX team to develop pixel-perfect user interfaces
 - Contributed to Quality Analysis of the system by performing end-to-end manual testing and developed unit test case using Jest.
-- Expertise in troubleshooting the problems generated while building and developing production support
-- Experienced in all phases of SDLC like requirement Analysis, Implementation, and maintenance with Agile and Scrum. Developed SPA application using react.js
-- Responsible for a charge of tech innovations and mentorship of intern trainee regarding existing systems and products.Participate in the entire development lifecycle, focusing on design, coding, deployment, and monitoring
+- Experienced in all phases of SDLC like requirement Analysis, Implementation, and maintenance with Agile and Scrum. 
 - Communicating with high-level clients regarding project requirements. Worked closely with developers, project managers, and testers (QA) to meet client requirements
