@@ -7,6 +7,9 @@ range: 'July - December 2015'
 url: 'https://rtcamp.com/'
 ---
 
-- Developed and maintained code for in-house and client websites primarily using WordPress, PHP, Vanilla JavaScript, CSS, Sass and SCSS
-- Responsible for bug fixing and managing clients' projects and open source plugin ‘rtMedia’ by solving GitHub Tickets
+- Implemented and maintained content management systems, including installation, configuration, troubleshooting, and creation of custom plugins and content types
+- Fixed bugs from existing websites and implemented enhancements that significantly to client projects and contributed to the open source plugin ‘rtMedia’ by solving GitHub Tickets
+- Responsible for adaptive design, and accessibility of web page. Assisted in creating a customized WordPress theme using front-end technologies for the Website
+- Modify existing code needed, and themes (including designs based on Photoshop layouts)
+- Experience with version control, code merging, Git
 - Manually tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness

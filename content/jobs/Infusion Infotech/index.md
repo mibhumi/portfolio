@@ -7,6 +7,7 @@ range: 'May - July 2018'
 url: ''
 ---
 
-- Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with Starry Station
-- Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Starry’s iOS and Android mobile apps
+
+- Worked towards creating an E-Commerce website- which was a platform for sellers to market and sells their products all over India, and for buyers to purchase the products with an easy user interface
+- Designed responsive web pages and created web API to enable data transmission from the backend
+- Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences
