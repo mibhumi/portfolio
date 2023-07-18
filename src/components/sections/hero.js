@@ -60,17 +60,16 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi, my name is</h1>;
+  const one = <h1 style={{ marginTop: 20 }}>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Bhumi Patel.</h2>;
   const three = <h3 className="big-heading">I build things for the web and mobile.</h3>;
   const four = (
     <>
-    <p>Web Developer | React Developer | Front-end Developer</p>
-      <p>  
-      Software Developer from Milton, ON, Canada with rock-solid
-      experience in building complex applications with modern technologies.
-    . Currently, I’m focused on building mordern financial web and mobile application using react and react native 
-        at{' '}
+      <p>Web Developer | React Developer | Front-end Developer</p>
+      <p>
+        Software Developer from Milton, ON, Canada with rock-solid experience in building complex
+        applications with modern technologies. . Currently, I’m focused on building mordern
+        financial web and mobile application using react and react native at{' '}
         <a href="https://kuliza.com/" target="_blank" rel="noreferrer">
           Kuliza techonology
         </a>
@@ -80,11 +79,7 @@ const Hero = () => {
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href={`mailto:${email}`}
-      target="_blank"
-      rel="noreferrer">
+    <a className="email-link" href={`mailto:${email}`} target="_blank" rel="noreferrer">
       Get in touch!
     </a>
   );
