@@ -71,7 +71,7 @@ const Hero = () => {
         applications with modern technologies. . Currently, I’m focused on building mordern
         financial web and mobile application using react and react native at{' '}
         <a href="https://kuliza.com/" target="_blank" rel="noreferrer">
-          Kuliza techonology
+          VenueVision
         </a>
         .
       </p>
