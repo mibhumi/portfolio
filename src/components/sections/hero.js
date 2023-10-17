@@ -69,7 +69,7 @@ const Hero = () => {
       <p>
         Software Developer from Milton, ON, Canada with rock-solid experience in building complex
         applications with modern technologies. Currently, I’m focused on building mordern
-        web and mobile application using react and react native at.
+        web and mobile application using react and react native.
       </p>
       <p>I design and code beautifully simple things, and I love what I do.</p>
     </>
