@@ -68,12 +68,8 @@ const Hero = () => {
       <p>Web Developer | React Developer | Front-end Developer</p>
       <p>
         Software Developer from Milton, ON, Canada with rock-solid experience in building complex
-        applications with modern technologies. . Currently, I’m focused on building mordern
-        financial web and mobile application using react and react native at{' '}
-        <a href="https://kuliza.com/" target="_blank" rel="noreferrer">
-          VenueVision
-        </a>
-        .
+        applications with modern technologies. Currently, I’m focused on building mordern
+        web and mobile application using react and react native at.
       </p>
       <p>I design and code beautifully simple things, and I love what I do.</p>
     </>
