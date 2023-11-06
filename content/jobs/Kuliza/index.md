@@ -3,7 +3,7 @@ date: '2019-08-11'
 title: 'Software engineer'
 company: 'Kuliza Technology'
 location: 'Bangalore, India'
-range: 'August 2019 - october 2022'
+range: 'August 2019 - December 2022'
 url: 'https://kuliza.com/'
 ---
 
