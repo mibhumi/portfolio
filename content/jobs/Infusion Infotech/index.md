@@ -3,7 +3,7 @@ date: '2018-05-21'
 title: 'Project Trainee'
 company: 'Infusion Infotech'
 location: 'Surat, India'
-range: 'May - July 2018'
+range: 'May 2018 - July 2018'
 url: ''
 ---
 
