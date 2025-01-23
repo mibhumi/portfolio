@@ -161,13 +161,10 @@ const About = () => {
             </p>
 
             <p>
-              I previously worked at <a href="https://kuliza.com/">Kuliza Technology</a>, where I
-              have worked on <a href="https://finvolv.ai/">Finvolv </a>
-              &nbsp; to reach clinets requirement. Developed and designed mobile and web designs,
-              maintained brand consistency throughout design and ensured the quality of code.
-              Received opportunity to work and communicate with various national and international
-              clients like Standard Charted-Kenya, Crediliq, Capri Global, Annapurna Finance, and
-              Lendingkart.
+              I am currently working at <a href="https://standardbio.com/">Standard BioTools</a>, where I
+              contribute to developing and designing web applications, including the <a href="https://www.standardbio.com/resources/panel-design">Panel Designer</a>
+              &nbsp; and <a href="https://www.standardbio.com/services/tools/d3-assay-design">D3</a> 
+              &nbsp; projects, to meet client requirements.  I design web pages, maintain brand consistency throughout the design, and ensure the quality of code. This role has given me the opportunity to collaborate closely with stakeholders, backend developers, and project managers, ensuring seamless project execution and delivery.
             </p>
 
             <p>Here are a few tools and technologies I’ve been working with recently:</p>
