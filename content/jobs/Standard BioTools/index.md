@@ -1,5 +1,5 @@
 ---
-date: '2019-08-11'
+date: '2023-11-27'
 title: 'UI Software Engineer'
 company: 'Standard biotools'
 location: 'Markham, Ontario, Canada'
