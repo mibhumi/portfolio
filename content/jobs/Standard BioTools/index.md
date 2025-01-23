@@ -8,8 +8,7 @@ url: 'https://www.standardbio.com'
 ---
 
 - Developed and maintained web applications to create, manage, and analyze panels using React, Javascript(ES6), C#, Laravel, Redux, Bootstrap, and Material UI
-- Integrated the backend and frontend through REST APIs to interact with the back-end and handle data exchange efficiently, incorporating web tokens for authentication, orchestrating state management with Redux, deploying functionality with React hooks, React Context API, lazy loading, code splitting, minimizing 
-unnecessary renders for improved user experience
+- Integrated the backend and frontend through REST APIs to interact with the back-end and handle data exchange efficiently, incorporating web tokens for authentication, orchestrating state management with Redux, deploying functionality with React hooks, React Context API, lazy loading, code splitting, minimizing unnecessary renders for improved user experience
 - Defined software architecture and implemented scalable solutions to support new features and improvements
 - Implemented continuous integration and deployment (CI/CD) pipelines for faster and more reliable application releases
 - Developed and implemented backend code to manage database operations, including inserting, updating, and deleting records using SQL queries
