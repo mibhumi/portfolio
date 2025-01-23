@@ -3,7 +3,7 @@ date: '2023-03-09'
 title: 'Web Designer - frontend developer'
 company: 'VenueVision'
 location: 'OakVille'
-range: 'March 2023 - Present'
+range: 'March 2023 - October 2023'
 url: 'https://www3.venuevision.com/'
 ---
 
