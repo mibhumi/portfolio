@@ -3,7 +3,7 @@ date: '2019-01-11'
 title: 'Web engineer Co-op'
 company: 'rtCamp'
 location: 'Boston, MA'
-range: 'July - December 2015'
+range: 'January 2019 - July 2019'
 url: 'https://rtcamp.com/'
 ---
 
