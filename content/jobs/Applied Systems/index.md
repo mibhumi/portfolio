@@ -8,7 +8,6 @@ url: 'https://www1.appliedsystems.com/en-ca/'
 ---
 
 - Developed and maintained RESTful APIs, ensuring reliable data flow between frontend applications and backend services.
-  Collaborated closely with product managers, designers, and non-technical stakeholders to translate business requirements into scalable technical solutions
 - Maintain front-end component libraries, Integrated the backend and front-end through REST APIs to interact with the back-end and handle data exchange efficiently, incorporating web tokens for authentication, state management, deploying functionality with React hooks, React Context API, lazy loading, Styled Components, minimizing unnecessary renders for improved user experience
 - Designed and implemented Due Diligence functionality end-to-end, integrating the Trulioo API to validate identities and persist compliance records for agencies
 - Built and configured secure webhook consumers for Adyen, including monitoring and alerting mechanisms to detect failures, retries, and abnormal webhook activity
