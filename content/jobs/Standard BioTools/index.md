@@ -3,7 +3,7 @@ date: '2023-11-27'
 title: 'UI Software Engineer'
 company: 'Standard BioTools'
 location: 'Markham, Ontario, Canada'
-range: 'November 2023 - Present'
+range: 'November 2023 - March 2025'
 url: 'https://www.standardbio.com'
 ---
 
@@ -12,7 +12,7 @@ url: 'https://www.standardbio.com'
 - Defined software architecture and implemented scalable solutions to support new features and improvements
 - Implemented continuous integration and deployment (CI/CD) pipelines for faster and more reliable application releases
 - Developed and implemented backend code to manage database operations, including inserting, updating, and deleting records using SQL queries
-- Collaborate and coordinate with back-end developers to build consistent systems across the entire stack, integrate UI components with APIs and databases, product managers to enhance existing features and UI/UX designers to ensure seamless user experiences and cross-browser compatibility 
+- Collaborate and coordinate with back-end developers to build consistent systems across the entire stack, integrate UI components with APIs and databases, product managers to enhance existing features and UI/UX designers to ensure seamless user experiences and cross-browser compatibility
 - Implemented RESTful APIs Contribute innovative ideas and solutions, with the flexibility to work across the tech stack and deliver high-quality code
 - Utilize Git for version control, following Agile methodology and Scrum practices for efficient project management
 - Contribute to providing valuable insights and innovative solutions to enhance application performance and user experiences

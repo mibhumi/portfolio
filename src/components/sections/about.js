@@ -128,6 +128,8 @@ const About = () => {
   const skills = [
     'JavaScript (ES6)',
     'React',
+    'NodeJS',
+    'TypeScript',
     'React Native',
     'HTML',
     'CSS',
@@ -139,10 +141,10 @@ const About = () => {
     'Bootstrap',
     'Flexbox',
     'Jest',
-    'TypeScript',
+    'Prisma',
     'Firebase',
     'TailWind',
-    'NodeJS',
+    'DataDog',
     'MudBlazor',
   ];
 
@@ -157,14 +159,21 @@ const About = () => {
               Hello! My name is Bhumi, and I Post Graduated from the Dhirubhai Ambani Institute of
               Information and Communication Technology, India in 2019 with a degree in Information
               Technology. My interests are in Front End Engineering, and I love to create beautiful
-              and performant products with delightful user experiences.
+              and performant products with delightful user experiences. I’m also interested in
+              backend development and enjoy working across the stack to build scalable, reliable
+              systems and APIs.
             </p>
 
             <p>
-              I am currently working at <a href="https://standardbio.com/">Standard BioTools</a>, where I
-              contribute to developing and designing web applications, including the <a href="https://www.standardbio.com/resources/panel-design">Panel Designer</a>
-              &nbsp; and <a href="https://www.standardbio.com/services/tools/d3-assay-design">D3</a> 
-              &nbsp; projects, to meet client requirements.  I design web pages, maintain brand consistency throughout the design, and ensure the quality of code. This role has given me the opportunity to collaborate closely with stakeholders, backend developers, and project managers, ensuring seamless project execution and delivery.
+              I am currently working at{' '}
+              <a href="https://www1.appliedsystems.com/en-ca/">Applied Systems</a>, where I
+              contribute to developing and designing web applications, including the{' '}
+              <a href="https://www.standardbio.com/resources/panel-design">Applied Pay</a>
+              &nbsp; project, to meet customer requirements. I design web pages, maintain brand
+              consistency throughout the design, and ensure the quality of code. I also work on
+              backend APIs, write unit and integration tests, and use monitoring tools to ensure
+              system reliability. I collaborate closely with stakeholders, backend engineers, and
+              project managers to ensure seamless project execution and on-time delivery.
             </p>
 
             <p>Here are a few tools and technologies I’ve been working with recently:</p>

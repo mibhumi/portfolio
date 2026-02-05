@@ -65,11 +65,11 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build things for the web and mobile.</h3>;
   const four = (
     <>
-      <p>Web Developer | React Developer | Front-end Developer</p>
+      <p>Web Developer | React Developer | Front-end Developer | Software Engineer</p>
       <p>
         Software Developer from Milton, ON, Canada with rock-solid experience in building complex
-        applications with modern technologies. Currently, I’m focused on building mordern
-        web and mobile application using react and react native.
+        applications with modern technologies. Currently, I’m focused on building mordern web and
+        mobile application using react and react native.
       </p>
       <p>I design and code beautifully simple things, and I love what I do.</p>
     </>
