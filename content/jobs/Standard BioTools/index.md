@@ -3,7 +3,7 @@ date: '2023-11-27'
 title: 'UI Software Engineer'
 company: 'Standard BioTools'
 location: 'Markham, Ontario, Canada'
-range: 'November 2023 - March 2025'
+range: 'November 2023 - February 2025'
 url: 'https://www.standardbio.com'
 ---
 
